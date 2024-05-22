@@ -14,7 +14,7 @@ I'm Sathwik, a passionate B.Tech CSE student at CMRCET, dedicated to crafting in
 - 📊 **Database Management**: Proficient in managing databases like Oracle and MySQL.
 - 🌐 **Front-end Development**: Crafted engaging projects using HTML, CSS, and PHP, blending aesthetics with functionality seamlessly.
 
-![](https://github-readme-stats.vercel.app/api?username=DVSR1411&theme=neon&show_icons=true&rank_icon=github)
+![](https://github-readme-stats.vercel.app/api?username=DVSR1411&theme=neon&include_all_commits=true&show_icons=true&rank_icon=github)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DVSR1411&theme=neon&layout=donut&langs_count=6)
 
 ### Let's Connect!
