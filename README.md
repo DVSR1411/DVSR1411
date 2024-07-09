@@ -24,7 +24,6 @@ I'm always eager to collaborate and push the boundaries of DevOps excellence. Re
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dvsr1411/)
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@dvsr1411)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@d.v.sathwikreddy1411)
-[![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/dvsathwikreddy)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/DVSATHWIKREDDY)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/DVSR1411/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/DVSATHWIKREDDY)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/d_v_sathwikredd1)
