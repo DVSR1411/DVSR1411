@@ -69,9 +69,10 @@ I'm always excited to connect, collaborate, and push the boundaries of what's po
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://www.linkedin.com/in/dvsr1411)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">](https://github.com/DVSR1411)
 [<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">](https://www.kaggle.com/dvsr1411)
+[<img src="https://img.shields.io/badge/DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=000000" alt="DataCamp">](https://www.datacamp.com/portfolio/dvsr1411?view=true)
 [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">](https://leetcode.com/u/DVSR1411/)
 [<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces">](https://codeforces.com/profile/DVSATHWIKREDDY)
-[<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank">](https://www.hackerrank.com/profile/d_v_sathwikredd1)
+[<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank">](https://www.hackerrank.com/profile/d_v_sathwikredd1)
 
 </div>
 
