@@ -21,13 +21,14 @@ I enjoy solving problems, learning continuously, and collaborating with teams to
   <img src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" alt="AWS" title="AWS" width="50" height="50" style="margin:5px;" />
   <img src="https://img.icons8.com/?size=100&id=VLKafOkk3sBX&format=png&color=000000" alt="Azure" title="Azure" width="50" height="50" style="margin:5px;" />
   <img src="https://img.icons8.com/?size=100&id=17842&format=png&color=000000" alt="Linux" title="Linux" width="50" height="50" style="margin:5px;" />
-  <img src="https://icon.icepanel.io/Technology/svg/Ubuntu.svg" alt="Ubuntu" title="Ubuntu" width="50" height="50" style="margin:5px;" />
   <img src="https://img.icons8.com/?size=100&id=9MJf0ngDwS8z&format=png&color=000000" alt="Bash" title="Bash" width="50" height="50" style="margin:5px;" />
   <img src="https://icon.icepanel.io/Technology/svg/Python.svg" alt="Python" title="Python" width="50" height="50" style="margin:5px;" />
   <img src="https://icon.icepanel.io/Technology/svg/NumPy.svg" alt="NumPy" title="NumPy" width="50" height="50" style="margin:5px;" />
   <img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" alt="Pandas" title="Pandas" width="50" height="50" style="margin:5px;" />
   <img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" alt="PostgreSQL" title="PostgreSQL" width="50" height="50" style="margin:5px;" />
   <img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" alt="MySQL" title="MySQL" width="50" height="50" style="margin:5px;" />
+  <img src="https://companieslogo.com/img/orig/SNOW-cf55aa82.svg" alt="Snowflake" title="Snowflake" width="50" height="50" style="margin:5px;" />
+  <img src="https://logo.svgcdn.com/logos/dbt-icon.svg" alt="Data Build Tool" title="Data Build Tool" width="50" height="50" style="margin:5px;" />
   <img src="https://icon.icepanel.io/Technology/svg/Apache-Hadoop.svg" alt="Apache Hadoop" title="Apache Hadoop" width="50" height="50" style="margin:5px;" />
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/Apache-Kafka.png" alt="Apache Kafka" title="Apache Kafka" width="50" height="50" style="margin:5px;" />
   <img src="https://icon.icepanel.io/Technology/svg/Apache-Spark.svg" alt="Apache Spark" title="Apache Spark" width="50" height="50" style="margin:5px;" />
@@ -36,7 +37,6 @@ I enjoy solving problems, learning continuously, and collaborating with teams to
   <img src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000" alt="Microsoft Power BI" title="Microsoft Power BI" width="50" height="50" style="margin:5px;" />
   <img src="https://icon.icepanel.io/Technology/svg/C.svg" alt="C Programming" title="C Programming" width="50" height="50" style="margin:5px;" />
   <img src="https://icon.icepanel.io/Technology/svg/Git.svg" alt="Git" title="Git" width="50" height="50" style="margin:5px;" />
-  <img src="https://icon.icepanel.io/Technology/png-shadow-512/GitHub.png" alt="GitHub" title="GitHub" width="50" height="50" style="margin:5px;" />
   <img src="https://icon.icepanel.io/Technology/svg/Jenkins.svg" alt="Jenkins" title="Jenkins" width="50" height="50" style="margin:5px;" />
   <img src="https://icon.icepanel.io/Technology/svg/Docker.svg" alt="Docker" title="Docker" width="50" height="50" style="margin:5px;" />
   <img src="https://icon.icepanel.io/Technology/svg/Kubernetes.svg" alt="Kubernetes" title="Kubernetes" width="50" height="50" style="margin:5px;" />
