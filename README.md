@@ -7,7 +7,7 @@
 ## About Me😎
 <div align="justify">
 
-Hi, I'm Danda Venkata Sathwik Reddy, a Computer Science graduate currently working as a Project Engineer at C-DAC Hyderabad. I have hands-on experience in Cloud Computing and Big Data technologies, where I design and build scalable data-driven solutions using AWS and Azure to enable efficient data processing and analytics.
+Hi, I'm Sathwik, a Computer Science graduate currently working as a Project Engineer at C-DAC Hyderabad. I have hands-on experience in Cloud Computing and Big Data technologies, where I design and build scalable data-driven solutions using AWS and Azure to enable efficient data processing and analytics.
 
 I'm skilled in programming with C and Python, and experienced in working with Ubuntu Linux environments. I use Git and GitHub for version control and Jenkins for CI/CD automation, along with Docker for containerization, Kubernetes for orchestration, and Terraform for infrastructure provisioning.
 
