@@ -7,11 +7,11 @@
 ## About Me😎
 <div align="justify">
 
-Hi, I'm Danda Venkata Sathwik Reddy, a B.Tech graduate in Computer Science and Engineering, currently working as a Project Engineer at C-DAC Hyderabad. I have hands-on experience in Cloud Computing and Big Data technologies, where I design and build scalable data-driven solutions using AWS and Azure to enable efficient data processing and analytics.
+Hi, I'm Danda Venkata Sathwik Reddy, a Computer Science graduate currently working as a Project Engineer at C-DAC Hyderabad. I have hands-on experience in Cloud Computing and Big Data technologies, where I design and build scalable data-driven solutions using AWS and Azure to enable efficient data processing and analytics.
 
 I'm skilled in programming with C and Python, and experienced in working with Ubuntu Linux environments. I use Git and GitHub for version control and Jenkins for CI/CD automation, along with Docker for containerization, Kubernetes for orchestration, and Terraform for infrastructure provisioning.
 
-As a Data Engineer, I work with PostgreSQL, MySQL for querying and managing structured data, Hadoop for distributed storage, and Snowflake for data warehousing. I use PySpark for large-scale data processing and Kafka for building real-time streaming pipelines. For workflow automation, I rely on Apache Airflow to design, schedule, and monitor complex data pipelines. I also use Power BI for concise, interactive data visualizations and reporting.
+As a Data Engineer, I work with PostgreSQL and MySQL for querying and managing structured data, Hadoop for distributed storage, and Snowflake for scalable cloud data warehousing. I use PySpark for large-scale data processing, Kafka for building real-time streaming pipelines, and dbt for data transformation and modeling. For workflow orchestration and automation, I rely on Apache Airflow to design, schedule, and monitor complex data pipelines. I also use Power BI to create interactive data visualizations and reporting solutions that help drive data-driven decisions.
 
 I enjoy solving problems, learning continuously, and collaborating with teams to deliver reliable, scalable, and data-driven solutions.
 </div>
