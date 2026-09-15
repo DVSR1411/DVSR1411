@@ -28,7 +28,7 @@ I enjoy solving problems, learning continuously, and collaborating with teams to
   <img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" alt="PostgreSQL" title="PostgreSQL" width="50" height="50" style="margin:5px;" />
   <img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" alt="MySQL" title="MySQL" width="50" height="50" style="margin:5px;" />
   <img src="https://companieslogo.com/img/orig/SNOW-cf55aa82.svg" alt="Snowflake" title="Snowflake" width="50" height="50" style="margin:5px;" />
-  <img src="https://github.com/dalebradman/dbt/blob/dev/kiyoshi-kuromiya/etc/dbt-logo-full.svg" alt="Data Build Tool" title="Data Build Tool" width="50" height="50" style="margin:5px;" />
+  <img src="https://databricks-ui-assets-v2-gsd4bmhzapcyenec.b02.azurefd.net/static/image/dbt_icon.4b25a2c58b3c1691.png" alt="Data Build Tool" title="Data Build Tool" width="50" height="50" style="margin:5px;" />
   <img src="https://icon.icepanel.io/Technology/svg/Apache-Hadoop.svg" alt="Apache Hadoop" title="Apache Hadoop" width="50" height="50" style="margin:5px;" />
   <img src="https://icon.icepanel.io/Technology/png-shadow-512/Apache-Kafka.png" alt="Apache Kafka" title="Apache Kafka" width="50" height="50" style="margin:5px;" />
   <img src="https://icon.icepanel.io/Technology/svg/Apache-Spark.svg" alt="Apache Spark" title="Apache Spark" width="50" height="50" style="margin:5px;" />
